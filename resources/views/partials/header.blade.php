@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Board Game Weekly</title>
-</head>
-<body>
-
 <header class="header">
     <nav class="nav-main">
         <ul class="nav-menu">
@@ -17,5 +10,3 @@
         </ul>
     </nav>
 </header>
-
-<div class="container">
